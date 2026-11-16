@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
