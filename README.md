@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -64,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/somudeephakraborty-boop/leetcode2433/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
